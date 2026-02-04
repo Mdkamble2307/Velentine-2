@@ -1,1 +1,33 @@
-# Velentine-2
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Happy valentine's!</title>
+    <style>
+        body {
+            text-align: center;
+            background-color: #ffe6f2;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #ff3399;
+            margin-top: 50px;
+        }
+        p {
+            font-size: 22px;
+        }
+        img {
+            width: 250px;
+            border-radius: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>💞❣️Will you be my valentine 💞Dhara 💞❣️</h1>
+    <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/cake-2025333_1280.png" alt="Birthday Cake">
+    <p>Wishing you in advance !</p>
+    <p>From: Your beloved Mitesh</p>
+
+</body>
+</html>
+
